@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+.mainDiv{
+    background-color: blueviolet;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    height: 90vh;
+}

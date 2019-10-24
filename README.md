@@ -23,6 +23,5 @@ In shop/shop.routing.ts configure routes specific to the feature module
 
 #Step5: Include routes with RouterModule’s forChild method instead of forRoot in shop/shop.module.ts
 
-
-
-
+#Verify that lazy loading works in DevTools by seeing if a new chunk is loaded when navigating to a route on the lazy loaded module
+reference- alligator.io
